@@ -122,12 +122,10 @@ Container(
 ## Tugas Praktikum
 1. Selesaikan Praktikum tersebut, lalu dokumentasikan dan push ke repository Anda berupa screenshot hasil pekerjaan beserta penjelasannya di file `README.md`!
 <br>
-<br>
 
 2. Jelaskan maksud dari langkah 2 pada praktikum tersebut!<br>
 **Jawaban:** <br>
 Pada langkah 2 dilakukan penambahan plugin auto_size_text dengan menjalankan perintah flutter pada terminal. Jika berhasil, maka akan tampil nama plugin auto_size_text beserta versinya di file pubspec.yaml pada bagian dependencies. Dengan menambahkan plugin ini, kita dapat menggunakan widget AutoSizeText untuk menampilkan teks yang dapat secara otomatis menyesuaikan ukuran fontnya. Ini sangat berguna dalam memastikan bahwa teks tetap terlihat baik dan tidak terpotong, terutama saat digunakan dalam layout yang dinamis atau responsif.
-<br>
 <br>
 
 3. Jelaskan maksud dari langkah 5 pada praktikum tersebut!<br>
@@ -138,7 +136,6 @@ Pada langkah 5 dilakukan penambahan kode untuk membuat variabel text dan paramet
 
     Dengan demikian, kita dapat menampilkan teks yang diinginkan di dalam widget RedTextWidget tersebut.
 <br>
-<br>
 
 4. Pada langkah 6 terdapat dua widget yang ditambahkan, jelaskan fungsi dan perbedaannya!<br>
 **Jawaban:** <br>
@@ -147,7 +144,6 @@ Pada langkah 5 dilakukan penambahan kode untuk membuat variabel text dan paramet
     <br> sedangkan, <br>
 
     - Container dengan `Text` : Digunakan untuk menampilkan tulisan secara statis. Tulisan ditampilkan dalam ukuran tetap dan tidak terdapat batas atau jumlah maksimal baris yang ditampilkan, sehingga tulisan ditampilkan sepenuhnya tanpa terpotong.
-<br>
 <br>
 
 5. Jelaskan maksud dari tiap parameter yang ada di dalam plugin `auto_size_text` berdasarkan tautan pada dokumentasi ini https://pub.dev/documentation/auto_size_text/latest/ ! <br>
